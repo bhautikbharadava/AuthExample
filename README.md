@@ -1,2 +1,0 @@
-# AuthExample
-Created with CodeSandbox
